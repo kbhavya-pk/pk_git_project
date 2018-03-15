@@ -8,7 +8,6 @@ public class Collection {
 		System.out.println("Raghavi");
 		System.out.println("Karan");
 		System.out.println("Raghavi_k");
-		System.out.println("Engineer");
 	}
 
 }
