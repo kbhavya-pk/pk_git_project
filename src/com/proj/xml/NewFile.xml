@@ -5,7 +5,6 @@
       <class name="com.first.example.demoOne"/>
       <class name="com.first.example.demoTwo"/>
       <class name="com.second.example.demoThree"/>
-      <class name="com.second.example.demoFour"/>
     </classes>
  </test>
 </suite>
